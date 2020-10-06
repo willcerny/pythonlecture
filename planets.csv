@@ -1,39 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Mon Oct  5 21:03:50 2020
-#
-# User preference: *
-#
-# COLUMN pl_name:        Planet Name
-# COLUMN pl_discmethod:  Discovery Method
-# COLUMN pl_controvflag: Controversial Flag
-# COLUMN pl_pnum:        Number of Planets in System
-# COLUMN pl_orbper:      Orbital Period [days]
-# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au])
-# COLUMN pl_orbeccen:    Eccentricity
-# COLUMN pl_orbincl:     Inclination [deg]
-# COLUMN pl_bmassj:      Planet Mass or M*sin(i) [Jupiter mass]
-# COLUMN pl_bmassprov:   Planet Mass or M*sin(i) Provenance
-# COLUMN pl_radj:        Planet Radius [Jupiter radii]
-# COLUMN pl_dens:        Planet Density [g/cm**3]
-# COLUMN pl_ttvflag:     TTV Flag
-# COLUMN pl_kepflag:     Kepler Field Flag
-# COLUMN pl_k2flag:      K2 Mission Flag
-# COLUMN pl_nnotes:      Number of Notes
-# COLUMN ra_str:         RA [sexagesimal]
-# COLUMN ra:             RA [decimal degrees]
-# COLUMN dec_str:        Dec [sexagesimal]
-# COLUMN dec:            Dec [decimal degrees]
-# COLUMN st_dist:        Distance [pc]
-# COLUMN gaia_dist:      Gaia Distance [pc]
-# COLUMN st_optmag:      Optical Magnitude [mag]
-# COLUMN st_optband:     Optical Magnitude Band
-# COLUMN gaia_gmag:      G-band (Gaia) [mag]
-# COLUMN st_teff:        Effective Temperature [K]
-# COLUMN st_mass:        Stellar Mass [Solar mass]
-# COLUMN st_rad:         Stellar Radius [Solar radii]
-# COLUMN rowupdate:      Date of Last Update
-# COLUMN pl_facility:    Discovery Facility
-#
 pl_name,pl_discmethod,pl_controvflag,pl_pnum,pl_orbper,pl_orbsmax,pl_orbeccen,pl_orbincl,pl_bmassj,pl_bmassprov,pl_radj,pl_dens,pl_ttvflag,pl_kepflag,pl_k2flag,pl_nnotes,ra_str,ra,dec_str,dec,st_dist,gaia_dist,st_optmag,st_optband,gaia_gmag,st_teff,st_mass,st_rad,rowupdate,pl_facility
 11 Com b,Radial Velocity,0,1,326.03000000,1.290000,0.231000,,19.40000,Msini,,,0,0,0,0,12h20m43.03s,185.179276,+17d47m34.3s,17.792868,93.37,93.37,4.740,V (Johnson),4.372,4742.00,2.70,19.00,2014-05-14,Xinglong Station
 11 UMi b,Radial Velocity,0,1,516.21997000,1.530000,0.080000,,14.74000,Msini,,,0,0,0,0,15h17m05.89s,229.274536,+71d49m26.0s,71.823898,125.72,125.72,5.016,V (Johnson),4.500,4213.00,2.78,29.79,2018-09-06,Thueringer Landessternwarte Tautenburg
